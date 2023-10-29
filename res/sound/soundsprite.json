@@ -1,0 +1,51 @@
+{
+  "src": [
+    "res/sound/soundsprite.ogg",
+    "res/sound/soundsprite.m4a",
+    "res/sound/soundsprite.mp3",
+    "res/sound/soundsprite.ac3"
+  ],
+  "sprite": {
+    "big_win": [
+      0,
+      7500
+    ],
+    "bonus_win": [
+      9000,
+      4000
+    ],
+    "click": [
+      14000,
+      282.08616780045406
+    ],
+    "collect": [
+      16000,
+      796.4852607709752
+    ],
+    "main": [
+      18000,
+      51000,
+      true
+    ],
+    "mix": [
+      70000,
+      15802.494331065758
+    ],
+    "reel_stop": [
+      87000,
+      1500
+    ],
+    "sack_mix": [
+      90000,
+      3114.897959183679
+    ],
+    "stop_fx": [
+      95000,
+      1956.0997732426272
+    ],
+    "stop": [
+      98000,
+      809.7959183673424
+    ]
+  }
+}
